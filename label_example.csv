@@ -1,0 +1,2 @@
+stamp_identifier	commodity_string	x	y	comment
+test_stamp	U;Ag;Au;Cu	0	0	"location is relative to local reference frame (oblique mercator, units are m)"
